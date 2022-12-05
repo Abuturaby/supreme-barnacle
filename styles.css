@@ -1,0 +1,25 @@
+body{margin: 0; text-align: center;
+font-family:trebuchet MS,sans-serif;;background-color: #e4f9f5;}
+
+
+h1{font-size: 90px; line-height: 4;
+   font-family: sacramento, cursive; margin: 0 auto 0 auto; color: #66BFBF;}
+   h2{font-size: 20px; color: #66BFBF; font-weight: normal; font-family: sans-serif;}
+  h3{color:#66BFBF; font-family: sans-sans-serif;;}
+  h4{color:#66BFBF; font-family: sans-serif;}
+h5{color: #11999E; text-decoration: none; font-family:serif;
+}
+.scndcloud{position:absolute;left:50px;}
+.fstcloud{position: relative;  left: 250px; margin-top: 100px;}
+.first-row{width: 50%; margin: auto; margin-top: 100px; text-align: left; line-height: 2; font-family: serif;}
+.second-row{width: 50%; margin: auto; margin-top: 100px; text-align: left;line-height: 2; font-family:serif;}
+.middle-container{margin-top: 100px; font-size: 18px;}
+.prog{width: 20%; float: left; margin-right: 30px;border-radius: 50%;}
+.car{width: 20%;float:right; margin-left: 30px;border-radius: 50%;}
+.topp-container{margin-top: 100px;font-family: serif; font-size: 18px;}
+.bottoom-container{background-color: #94B49F; padding: 50px 0 20px;}
+.futa{color: #EAF6F6; font-family: serif;font-size: 15px;font-weight: normal;}
+.contact{color:#11999E;margin-top: 0;}
+.bottom-container{margin-top: 50px;font-family: serif; font-size: 18px;}
+hr {width: 70px; border-style: dotted; border-top: 0; border-width: 5px; color:#D6E4E5; margin-top: 50px;}
+.hello{width: 200px; margin: auto;}
